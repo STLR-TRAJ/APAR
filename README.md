@@ -26,9 +26,7 @@ This is a complete, production-ready, enterprise-level system prompt designed to
 ```
 c:\Work\
 ├── grc_audit_system_prompt.py                  # Core system identity, philosophy, triage
-├── grc_audit_frameworks_extended.py            # SEBI, RBI, DPDP, GDPR, ISO 27001
-├── grc_audit_frameworks_advanced.py            # ISO 42001, SOC 2
-├── grc_audit_frameworks_final.py               # SOX, PCI DSS v4.0, HIPAA
+├── grc_audit_frameworks_final.py               # SEBI, RBI, DPDP, GDPR, ISO 27001, SOX, PCI DSS v4.0, HIPAA, ISO 42001, SOC 2
 ├── grc_audit_rag_evidence_engine.py            # RAG integration, evidence validation
 ├── grc_audit_orchestration_context.py          # Multi-LLM routing, context management
 ├── grc_audit_output_templates_security.py      # Report templates, security hardening
